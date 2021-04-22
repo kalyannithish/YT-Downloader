@@ -14,11 +14,11 @@ echo -e "\e[031m" "     ▄▄  █░░░░░░░░░░░█  ▄▄"
 echo -e "\e[031m" "    █▄▄█ █░░█░░┬░░█░░█ █▄▄█"
 echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
 echo -e "\e[032m" "║ ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳™           ║"
-echo -e "\e[032m" "║ ♚ Author : KhanSaad1275                ║"
-echo -e "\e[032m" "║ ♚ Github : g̲i̲t̲h̲u̲b̲.̲c̲o̲m̲/̲k̲h̲a̲n̲s̲a̲a̲d̲1̲2̲7̲5̲/̲    ║"
+echo -e "\e[032m" "║ ♚ Author : Make It Real                ║"
+echo -e "\e[032m" "║ ♚ Github : g̲i̲t̲h̲u̲b̲.̲c̲o̲m̲/̲kalyannithish     ║"
 echo -e "\e[032m" "║ ♚ Website : www.LearnTermux.tech       ║"
 echo -e "\e[036m" "╠════════════════════════════════════════╝"
-echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
+echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁 FROM 1 to 6]  ➳"
 echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
 echo -e "\e[032m" "╠═▶ 2. Video 360p"
 echo -e "\e[032m" "╠═▶ 3. Video 480p"
@@ -69,7 +69,6 @@ esac
 fi
 
 
-#email: Kamilohulau@gmail.com
-#Date: Wed Dec  2 15:48:19 PST 2020#
-#Project name : Termux-YTD#
-#Github: https://github.com/khansaad1275/Termux-YTD#
+#email: Kalyannithish@protonmail.com
+#Project name : Termux-YTDownloader
+#Github: https://github.com/kalyannithish/YT-Downloader/
