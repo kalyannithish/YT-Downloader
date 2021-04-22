@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Project name : Termux-YTD
-# Coded by: Khansaad1275 (You dont become a coder by just changing the credits)
+# Coded by: Kalyan(You dont become a coder by just changing the credits)
 # Github: https://github.com/kalyannithish/YT-Downloader
 # Date : 14/4/2020
 
