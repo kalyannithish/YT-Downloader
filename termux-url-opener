@@ -2,7 +2,7 @@
 
 clear
 kill_color=$'\e[0m'
-command -v youtube-dl &>/dev/null || printf "\e[031m Please install Youtube-dl manualy or run the the install.sh script again.\n$kill_color"
+command -v youtube-dl &>/dev/null || printf "\e[031m Please install Youtube-dl manualy or run the the runthish.sh script again.\n$kill_color"
 
 #uncomment me if you wish :)
 #[[ -f ~/bin ]] || printf "\e[031m Please Run the the install.sh script.\n$kill_color"
